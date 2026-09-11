@@ -1,0 +1,4 @@
+git status
+  505  git add .
+  506  git status
+  507  git commit -m "added testing files"
